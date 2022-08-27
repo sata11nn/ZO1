@@ -46,7 +46,7 @@ global.websitex = "" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/F54eghVKahu00gwHoBDVTu' //GROUP
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "AMRU-SER" //ur sticker watermark packname
+global.packname = "SATA-SER" //ur sticker watermark packname
 global.author = "AMRU-SER-MD" //ur sticker watermark author
 
 //Bot theme media
@@ -82,16 +82,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    success: 'تایید',
+    admin: 'این دستور فقط مخصوص مدیران گروه می‌باشد',
+    botAdmin: 'ابتدا ربات را ادمین کنید',
+    owner: 'این دستور فقط مخصوص مالک ربات میباشد',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    bot: 'فقط در بات ',
+    wait: 'در حال ساخت ',
+    linkm: 'لینک را ارسال کنید',
+    error: 'خطا',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
